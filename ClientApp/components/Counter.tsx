@@ -9,7 +9,7 @@ let Counter = observer(class C extends React.Component<{}, {}> {
 
     public render() {
         return <div>
-            <h1>Counter</h1>
+            <h1>Räknarjävel!</h1>
             <p>This is a simple example of a React component.</p>
             <p>Current count: <strong>{ store.state.currentCount }</strong></p>
             <button onClick={ () => { this.incrementCounter(); } }>Öka</button>
