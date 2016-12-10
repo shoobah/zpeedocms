@@ -12,7 +12,7 @@ export class NavMenu extends React.Component<any, void> {
                         <span className='icon-bar'></span>
                         <span className='icon-bar'></span>
                     </button>
-                    <Link className='navbar-brand' to={ '/' }>Corelab7</Link>
+                    <Link className='navbar-brand' to={ '/' }>Zpeedo CMS</Link>
                 </div>
                 <div className='clearfix'></div>
                 <div className='navbar-collapse collapse'>
