@@ -1,0 +1,23 @@
+[
+    {
+        "id": "F8CF5F50-24E0-4AB4-AD8E-9273A189EF3B",
+        "name": "Common page",
+        "properties": [
+            {
+                "name":"Heading",
+                "type":"string",
+                "editor":"default"
+            },
+            {
+                "name":"Text",
+                "type":"string",
+                "editor":"wysiwyg"
+            },
+            {
+                "name":"Date",
+                "type":"datetime",
+                "editor":"default"
+            }
+        ]
+    }
+]

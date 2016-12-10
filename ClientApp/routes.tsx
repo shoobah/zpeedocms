@@ -7,8 +7,7 @@ import { Counter } from './components/Counter';
 
 export default <Route component={ Layout }>
     <Route path='/' components={{ body: Home }} />
-    <Route path='/counter' components={{ body: Counter }} />
-    <Route path='/fetchdata' components={{ body: FetchData }} />
+    <Route path='/admin' components={{ body: Counter }} />
 </Route>;
 
 // Allow Hot Module Reloading

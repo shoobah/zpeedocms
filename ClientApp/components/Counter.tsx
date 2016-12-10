@@ -1,6 +1,6 @@
-import * as React from "react";
-import {observer} from "mobx-react";
-import store from "../stores/teststore";
+import * as React from 'react';
+import {observer} from 'mobx-react';
+import store from '../stores/editorstore';
 
 let Counter = observer(class C extends React.Component<{}, {}> {
     constructor() {
