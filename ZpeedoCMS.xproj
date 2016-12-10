@@ -8,7 +8,7 @@
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
     <ProjectGuid>0e47b5a1-b2fd-4b13-a9cb-ff7bf8b3b79d</ProjectGuid>
-    <RootNamespace>Corelab7</RootNamespace>
+    <RootNamespace>ZpeedoCMS</RootNamespace>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup>
