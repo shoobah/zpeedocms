@@ -3,11 +3,11 @@ import { Router, Route, HistoryBase } from 'react-router';
 import { Layout } from './components/Layout';
 import { Home } from './components/Home';
 import { FetchData } from './components/FetchData';
-import { Counter } from './components/Counter';
+import { Admin } from './components/Admin';
 
 export default <Route component={ Layout }>
     <Route path='/' components={{ body: Home }} />
-    <Route path='/admin' components={{ body: Counter }} />
+    <Route path='/admin' components={{ body: Admin }} />
 </Route>;
 
 // Allow Hot Module Reloading

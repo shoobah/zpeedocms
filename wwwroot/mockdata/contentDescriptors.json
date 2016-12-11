@@ -19,5 +19,21 @@
                 "editor":"default"
             }
         ]
+    },
+    {
+        "id": "1EB480D6-033C-48F0-A8C2-B226B0D9DBB6",
+        "name": "Another page",
+        "properties": [
+            {
+                "name":"Heading",
+                "type":"string",
+                "editor":"default"
+            },
+            {
+                "name":"Text",
+                "type":"string",
+                "editor":"wysiwyg"
+            }
+        ]
     }
 ]
